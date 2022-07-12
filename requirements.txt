@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+django
+requests
+psycopg2
